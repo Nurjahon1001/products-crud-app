@@ -1,0 +1,106 @@
+{
+  "products": [
+    {
+      "id": 1651583426150,
+      "item": "phone",
+      "image": "C:\\fakepath\\1.jpg",
+      "price": "200",
+      "quantity": "45",
+      "measurement": "count",
+      "category": ""
+    },
+    {
+      "id": 1651602915800,
+      "item": "strawberry",
+      "image": "2.jpg",
+      "price": "4",
+      "quantity": "10",
+      "measurement": "kg",
+      "category": ""
+    },
+    {
+      "id": 1651603955241,
+      "item": "apple",
+      "image": "2.jpg",
+      "price": "4",
+      "quantity": "450",
+      "measurement": "kg",
+      "category": ""
+    },
+    {
+      "id": 1651604034003,
+      "item": "table",
+      "image": "1.jpg",
+      "price": "200",
+      "quantity": "45",
+      "measurement": "count",
+      "category": ""
+    },
+    {
+      "id": 1651604152114,
+      "item": "bag",
+      "image": "1.jpg",
+      "price": "200",
+      "quantity": "15",
+      "measurement": "count",
+      "category": ""
+    },
+    {
+      "id": 1651604401586,
+      "item": "table",
+      "image": "2.jpg",
+      "price": "200",
+      "quantity": "45",
+      "measurement": "count",
+      "category": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": 12,
+      "title": "electronics"
+    },
+    {
+      "id": 13,
+      "title": "home & kitchen"
+    },
+    {
+      "id": 14,
+      "title": "health & care"
+    },
+    {
+      "id": 15,
+      "title": "food"
+    },
+    {
+      "id": 1651604387891,
+      "title": "sport"
+    }
+  ],
+  "measurements": [
+    {
+      "id": 120,
+      "title": "kg"
+    },
+    {
+      "id": 121,
+      "title": "l"
+    },
+    {
+      "id": 122,
+      "title": "count"
+    },
+    {
+      "id": 1651581009472,
+      "title": "cup"
+    },
+    {
+      "id": 1651581018294,
+      "title": "cup"
+    },
+    {
+      "id": 1651581103205,
+      "title": "bottle"
+    }
+  ]
+}
